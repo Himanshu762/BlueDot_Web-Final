@@ -1,0 +1,22 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/index.html" },
+      { "source": "/about", "destination": "/about/page.html" },
+      { "source": "/blog", "destination": "/blog/page.html" },
+      { "source": "/blog/devara-kere-restoration", "destination": "/blog/devara-kere-restoration/page.html" },
+      { "source": "/blog/laksha-vruksha", "destination": "/blog/laksha-vruksha/page.html" },
+      { "source": "/blog/mangrove-plantation-chennai", "destination": "/blog/mangrove-plantation-chennai/page.html" },
+      { "source": "/blog/turahalli-forest-cleanup-drive", "destination": "/blog/turahalli-forest-cleanup-drive/page.html" },
+      { "source": "/contact-corporations", "destination": "/contact-corporations/page.html" },
+      { "source": "/contact-groups", "destination": "/contact-groups/page.html" },
+      { "source": "/contact-individual", "destination": "/contact-individual/page.html" },
+      { "source": "/contact-landing", "destination": "/contact-landing/page.html" },
+      { "source": "/contact-landing-groups-and-corporations", "destination": "/contact-landing-groups-and-corporations/page.html" },
+      { "source": "/services/environmental-education", "destination": "/services/environmental-education/page.html" },
+      { "source": "/services/mangrove-restoration", "destination": "/services/mangrove-restoration/page.html" },
+      { "source": "/services/ocean-clean-up", "destination": "/services/ocean-clean-up/page.html" },
+      { "source": "/services/river-and-lake-conservation", "destination": "/services/river-and-lake-conservation/page.html" },
+      { "source": "/services/wildlife-conservation", "destination": "/services/wildlife-conservation/page.html" }
+    ]
+  }
+  
